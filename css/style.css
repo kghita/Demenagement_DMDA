@@ -8,13 +8,49 @@ body {
 }
 
 /*********
+MARK GENERAL
+**********/
+
+.header {
+    background-color: #3fbcff;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100px;
+}
+
+.banner {
+    width: 100%;
+    max-width: 100%;
+    background-size: cover;
+}
+
+.function {
+     background-color: #1b6d85;
+     width: 100%;
+     max-width: 100%;
+    min-height: 100px;
+ }
+
+.usp {
+    background-color: #3fbcff;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100px;
+}
+
+.footer {
+    background-color: #303030;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100px;
+}
+
+/*********
 MARK BANNER
 **********/
 
 .banner {
     background: hotpink url("../img/ban.jpg") left center no-repeat;
-    background-size: cover;
-    min-width: 100%;
     height: 500px;
     text-align: center;
 }
